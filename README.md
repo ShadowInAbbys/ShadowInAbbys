@@ -25,8 +25,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/ShadowInAbbys/SIA/blob/main/Asset/Gif/code.gif" width="450px" autoplay loop>
+  <video width="450" autoplay loop muted playsinline>
+    <source src="https://github.com/ShadowInAbbys/SIA/blob/main/Asset/Gif/code.gif" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </p>
+
 
 <p align="center">
 
