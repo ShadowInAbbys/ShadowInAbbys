@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SIA&color=red" alt="Visitor Counter"/>
+  <a href="https://github.com/ShadowInAbbys/SIA/blob/main/Asset/Gif/code.gif">
+    <img src="https://github.com/ShadowInAbbys/SIA/blob/main/Asset/Gif/code.gif" width="450px">
+  </a>
 </p>
 
 
