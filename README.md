@@ -4,21 +4,12 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ShadowInAbbys/SIA/blob/main/Asset/Gif/code.gif">
-    <img src="https://github.com/ShadowInAbbys/SIA/blob/main/Asset/Gif/code.gif" width="450px">
-  </a>
-</p>
-
-
   <h1 align="center">様々な能力は秘密にされている</h1>
   <h3 align="center">VARIOUS ABILITIES ARE CONFIDENTIAL</h3>
   <p align="center">
     <em>A Haunting Event</em> <br>
     <strong>Humans Are Animals That Can Bargain</strong>
   </p>
-
-
 
 <p align="center">
   <a href="https://git.io/typing-svg">
