@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/ShadowInAbbys/SIA/blob/main/Asset/Gif/code.gif" width="450px">
+  <img src="https://github.com/ShadowInAbbys/SIA/blob/main/Asset/Gif/code.gif" width="450px" autoplay loop>
 </p>
 
 <p align="center">
